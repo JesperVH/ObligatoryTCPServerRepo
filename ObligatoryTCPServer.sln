@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObligatoryTCPServer", "ObligatoryTCPServer\ObligatoryTCPServer.csproj", "{C70725AE-2A18-45EB-AE7F-2F9E59CDB3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "Book\BookLibrary.csproj", "{BE1F9408-DC31-4562-BADE-5EB3553D27FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70725AE-2A18-45EB-AE7F-2F9E59CDB3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70725AE-2A18-45EB-AE7F-2F9E59CDB3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70725AE-2A18-45EB-AE7F-2F9E59CDB3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70725AE-2A18-45EB-AE7F-2F9E59CDB3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1F9408-DC31-4562-BADE-5EB3553D27FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1F9408-DC31-4562-BADE-5EB3553D27FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1F9408-DC31-4562-BADE-5EB3553D27FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1F9408-DC31-4562-BADE-5EB3553D27FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB757A15-0460-412E-9505-5971F36CEA1B}
+	EndGlobalSection
+EndGlobal
